@@ -1,7 +1,7 @@
 {
   "name": "foodsystem",
   "version": "0.1.0",
-  "homepage": "https://PoonamM123.github.io/foodsystem",
+  "homepage": "https://PoonamM123.github.io/foodsystem/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

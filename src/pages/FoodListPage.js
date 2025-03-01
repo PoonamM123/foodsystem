@@ -16,7 +16,7 @@ const FoodListPage = ({ foodEntries }) => {
       ) : (
         <p>No food entries yet.</p>
       )}
-      <Link to="/">Add More Food</Link>
+      <Link to="/foodsystem/food-list">Add More Food</Link>
     </div>
   );
 };
